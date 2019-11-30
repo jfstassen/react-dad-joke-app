@@ -27,6 +27,11 @@
     font-weight: 700;
     letter-spacing: 0;
 }
+.JokeList-title span:first-of-type {
+    font-weight: 700;
+    letter-spacing: 0;
+    text-decoration: line-through;
+} 
 .JokeList-sidebar img{
     width: 50%;
     border-radius: 50%;
