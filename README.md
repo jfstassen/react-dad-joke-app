@@ -2,7 +2,7 @@
 Inspired by Colt steele, November 2019
 
 ## Install
-	```npm i & npm start```
+	npm i & npm start
 	
 ## Tech :
 - React
