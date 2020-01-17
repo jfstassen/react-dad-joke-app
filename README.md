@@ -1,7 +1,13 @@
-## Dad Joke app
-### using api & React classes
+# Dad Joke app
+Inspired by Colt steele, November 2019
 
-### `npm i` & `npm start`
+## Install
+	```npm i & npm start```
+	
+## Tech :
+- React
+- using api & React classes
 
-### Live Preview:
-https://dreamy-yonath-7979ff.netlify.com/
+![alt text](https://i.imgur.com/p6v6O4F.png)
+
+[Deployed on Netlify](https://dreamy-yonath-7979ff.netlify.com/)
